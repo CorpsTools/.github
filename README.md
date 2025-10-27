@@ -1,7 +1,7 @@
 # CorpsTools
 
 <p align="center">
-  <img width="800" src="https://raw.githubusercontent.com/CorpsTools/.github/refs/heads/main/corps_tools_full.png">
+  <img width="500" src="https://raw.githubusercontent.com/CorpsTools/.github/refs/heads/main/corps_tools_full.png">
 </p>
 
 ---
