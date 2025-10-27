@@ -1,6 +1,8 @@
 # CorpsTools
 
-![CorpsTools Logo](https://github.com/CorpsTools/.github/raw/main/profile/corps_tools_full.png)
+<p align="center">
+  <img width="800" src="https://raw.githubusercontent.com/CorpsTools/.github/refs/heads/main/corps_tools_full.png">
+</p>
 
 ---
 
