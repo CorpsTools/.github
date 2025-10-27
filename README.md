@@ -1,12 +1,10 @@
-# CorpsTools
-
 <p align="center">
   <img width="500" src="https://raw.githubusercontent.com/CorpsTools/.github/refs/heads/main/corps_tools_full.png">
 </p>
 
 ---
 
-## 🪖 Overview
+## 🪛 Overview
 
 **CorpsTools** is a collection of websites, applications, and digital tools made **by the Corps of Cadets, for the Corps of Cadets**. Our mission is to provide an accessible hub of utilities that assist Cadets in every aspect of their daily lives — academically, physically, and professionally.
 
